@@ -11,3 +11,4 @@ layout: default
 
 - [OLOSIA](https://olosia.com) 사용자 가이드문서 최초 작성
 - 가이드문서 URL : https://olosia.github.io/
+- OLOSIA URL : https://olosia.com/
