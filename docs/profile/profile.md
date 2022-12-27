@@ -3,7 +3,7 @@ layout: default
 title: Profile
 nav_order: 3
 has_children: true
-permalink: /docs/user-profile
+permalink: /docs/profile
 ---
 
 # OLOSIA User Profile
