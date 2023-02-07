@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 기능별 Decks
+title: 기능별 암기장
 parent: User Home
 nav_order: 8
 ---
 
-# 기능별 Decks
+# 기능별 암기장
 
 로그인한 사용자 본인 홈에 등록된 노트목록을 기능별로 제공합니다.
 

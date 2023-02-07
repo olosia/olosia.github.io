@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 카드
+title: 암기카드
 parent: User Home
 nav_order: 5
 ---
 
-# 카드
+# 암기카드
 
 학습카드 페이지 입니다.
 

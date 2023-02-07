@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 태그별 Decks
+title: 태그별 암기장
 parent: User Home
 nav_order: 9
 ---
 
-# 태그별 Decks
+# 태그별 암기장
 
 홈 관리에서 설정한 태그별 노트 목록을 제공합니다.
 

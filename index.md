@@ -2,26 +2,36 @@
 layout: default
 title: Getting started
 nav_order: 1
-description: "OLOSIA User's Guide"
+description: "올로시아(OLOSIA)는 여러분들의 학습에 도움을 드리기 위한 암기장(Flashcards) 플랫폼 입니다."
 permalink: /
 ---
 
-# OLOSIA User's Guide
+# 올로시아(OLOSIA)를 소개합니다.
+{: .fs-9 }
 
-OLOSIA 에서 제공하는 기능들을 설명합니다.
+---
 
-Flashcards를 작성하고 학습하는 기능을 제공합니다.
+올로시아(OLOSIA)는 여러분들의 학습에 도움을 드리기 위한 암기장(Flashcards) 플랫폼 입니다.
+{: .fs-6 .fw-300 }
 
-작성한 Flashcards를 공개하면, 회원들은 이를 구독하여 학습을 할 수 있습니다!
+나만의 암기장을 만들어 반복 학습하거나, 공개된 암기장을 통해 효율적인 학습이 가능합니다.
+
+작성하신 암기장을 공개하시면, 다른 회원들은 이를 구독하여 반복 학습을 할 수 있습니다!
+
+여러분의 경험과 노하우를 필요로 하는 많은 분들과 공유하세요.
+
+![decks-pc](/assets/images/decks-pc.png)
+![decks-mobile](/assets/images/decks-mobile.png)
 
 ---
 
 ## TABLE OF CONTENTS
 
-- [OLOSIA Main](https://olosia.github.io/docs/main)
-    - [Public Decks](https://olosia.github.io/docs/main/public-decks)
-    - [Public Homes](https://olosia.github.io/docs/main/public-homes)
-    - [Create Flashcards](https://olosia.github.io/docs/main/create-flashcards)
+- [올로시아 메인](https://olosia.github.io/docs/main)
+    - [공개 암기장](https://olosia.github.io/docs/main/decks)
+    - [공개 사용자홈](https://olosia.github.io/docs/main/homes)
+    - [간편 암기장](https://olosia.github.io/docs/main/easy)
+    - [국기 암기](https://olosia.github.io/docs/main/flag)
 - [User Home](https://olosia.github.io/docs/user-home)
     - [사용자 홈](https://olosia.github.io/docs/user-home/home-main)
     - [사용자 홈 관리](https://olosia.github.io/docs/user-home/home-edit)

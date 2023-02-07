@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 카드 등록
+title: 암기카드 등록
 parent: User Home
 nav_order: 6
 ---
 
-# 카드 등록
+# 암기카드 등록
 
 카드의 질문과 답변, 설명을 등록합니다.
 

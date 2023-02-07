@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Deck 등록
+title: 암기장 등록
 parent: User Home
 nav_order: 4
 ---
 
-# Deck 등록
+# 암기장 등록
 
 Deck 제목과 소개글, 태그, 사전 정보등을 등록하며, 공개여부를 설정합니다.
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Public Homes
-parent: Main
+title: 공개 사용자홈
+parent: OLOSIA Main
 nav_order: 2
 ---
 
-# Public Homes
+# 공개 사용자홈
 
 공개된 사용자홈을 확인하실 수 있습니다.
 

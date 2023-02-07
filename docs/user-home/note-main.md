@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Deck
+title: 암기장
 parent: User Home
 nav_order: 3
 ---
 
-# Deck
+# 암기장
 
 Deck 소개 페이지 입니다.
 
