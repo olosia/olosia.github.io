@@ -1,15 +1,14 @@
 # OLOSIA User's Guide
 
-## Getting started
-
-
+## 올로시아(OLOSIA)는 여러분들의 학습에 도움을 드리기 위한 암기장(Flashcards) 플랫폼 입니다.
 
 ## TABLE OF CONTENTS
 
-- [OLOSIA Main](https://olosia.github.io/docs/main)
-    - [Public Decks](https://olosia.github.io/docs/main/public-decks)
-    - [Public Homes](https://olosia.github.io/docs/main/public-homes)
-    - [Create Flashcards](https://olosia.github.io/docs/main/create-flashcards)
+- [올로시아 메인](https://olosia.github.io/docs/main)
+    - [공개 암기장](https://olosia.github.io/docs/main/decks)
+    - [공개 사용자홈](https://olosia.github.io/docs/main/homes)
+    - [간편 암기장](https://olosia.github.io/docs/main/easy)
+    - [국기 암기](https://olosia.github.io/docs/main/flag)
 - [User Home](https://olosia.github.io/docs/user-home)
     - [사용자 홈](https://olosia.github.io/docs/user-home/home-main)
     - [사용자 홈 관리](https://olosia.github.io/docs/user-home/home-edit)
