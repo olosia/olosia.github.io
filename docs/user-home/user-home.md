@@ -6,6 +6,6 @@ has_children: true
 permalink: /docs/user-home
 ---
 
-# OLOSIA User Home
+# 올로시아(OLOSIA) 회원 홈
 
-사용자 홈 관련 기능들을 안내합니다.
+올로시아(OLOSIA) 회원 홈 관련 기능들을 안내합니다.
