@@ -7,8 +7,12 @@ layout: default
 
 변경 이력을 남겨봅니다.
 
-## 수요일, 2022년 11월 30일
+## 2023년 2월 19일, 일요일 (GMT+9)
 
-- [OLOSIA](https://olosia.com) 사용자 가이드문서 최초 작성
+- 가이드문서 메뉴별 이미지 추가 및 설명 추가
+
+## 2022년 11월 30일, 수요일 (GMT+9)
+
+- [올로시아(OLOSIA)](https://olosia.com) 사용자 가이드문서 최초 작성
 - 가이드문서 URL : https://olosia.github.io/
 - OLOSIA URL : https://olosia.com/

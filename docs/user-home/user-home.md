@@ -7,6 +7,7 @@ permalink: /docs/user-home
 ---
 
 # 올로시아(OLOSIA) 회원 홈
+{: .fs-7 }
 
 올로시아(OLOSIA) 회원 홈 관련 기능들을 안내합니다.
 
