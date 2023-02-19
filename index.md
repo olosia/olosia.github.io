@@ -1,18 +1,16 @@
 ---
 layout: default
-title: Getting started
+title: 시작하기
 nav_order: 1
 description: "올로시아(OLOSIA)는 여러분들의 학습에 도움을 드리기 위한 암기장(Flashcards) 플랫폼 입니다."
 permalink: /
 ---
 
 # 올로시아(OLOSIA)를 소개합니다.
-{: .fs-9 }
-
----
+{: .fs-7 }
 
 올로시아(OLOSIA)는 여러분들의 학습에 도움을 드리기 위한 암기장(Flashcards) 플랫폼 입니다.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 나만의 암기장을 만들어 반복 학습하거나, 공개된 암기장을 통해 효율적인 학습이 가능합니다.
 
@@ -27,7 +25,7 @@ permalink: /
 
 ## TABLE OF CONTENTS
 
-- [올로시아 메인](https://olosia.github.io/docs/main)
+- [OLOSIA Main](https://olosia.github.io/docs/main)
     - [공개 암기장](https://olosia.github.io/docs/main/decks)
     - [공개 사용자홈](https://olosia.github.io/docs/main/homes)
     - [간편 암기장](https://olosia.github.io/docs/main/easy)
@@ -47,4 +45,4 @@ permalink: /
     - [Settings](https://olosia.github.io/docs/profile/user-settings)
     - [Log out](https://olosia.github.io/docs/profile/log-out)
 - [Sign in](https://olosia.github.io/docs/sign-in)
-- [About OLOSIA](https://olosia.github.io/docs/about/about)
+- [About OLOSIA](https://olosia.github.io/docs/about)

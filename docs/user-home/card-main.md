@@ -14,3 +14,5 @@ nav_order: 5
 하단의 Answer 버튼을 눌러 답변을 확인하고, Previous/Next 버튼으로 이전/다음 카드로 이동 할 수 있습니다.
 
 우측 상단의 참조 URL 링크 버튼을  통해, 등록하신 URL 에서 질문에 대한 정보를 참고 할 수 있습니다.
+
+![card-main](/assets/images/card-main.png)

@@ -31,6 +31,4 @@ https://translate.google.co.kr/?text=
 
 https://m.search.naver.com/search.naver?query=
 
-
-
-
+![note-edit](/assets/images/note-edit.png)

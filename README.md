@@ -24,4 +24,4 @@
     - [Settings](https://olosia.github.io/docs/profile/user-settings)
     - [Log out](https://olosia.github.io/docs/profile/log-out)
 - [Sign in](https://olosia.github.io/docs/sign-in)
-- [About OLOSIA](https://olosia.github.io/docs/about/about)
+- [About OLOSIA](https://olosia.github.io/docs/about)

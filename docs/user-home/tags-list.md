@@ -12,3 +12,5 @@ nav_order: 9
 각 태그가 메뉴로 출력되며, 태그에 속한 암기장 목록을 조회합니다.
 
 방문자에게는 공개된 암기장 목록이 보여집니다.
+
+![tags-list](/assets/images/tags-list.png)

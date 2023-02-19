@@ -38,3 +38,5 @@ SHUFFLE 버튼을 통해 카드 목록을 뒤섞는 기능을 제공합니다.
 즐겨찾기
 
     회원 홈의 즐겨찾기 메뉴에 등록됩니다.
+
+![note-main](/assets/images/note-main.png)
