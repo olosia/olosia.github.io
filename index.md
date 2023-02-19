@@ -18,6 +18,8 @@ permalink: /
 
 여러분의 경험과 노하우를 필요로 하는 많은 분들과 공유하세요.
 
+[올로시아(OLOSIA) 바로가기](https://olosia.com/){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ![decks-pc](/assets/images/decks-pc.png)
 
 <br />
