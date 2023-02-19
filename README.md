@@ -4,7 +4,7 @@
 
 ## TABLE OF CONTENTS
 
-- [올로시아 메인](https://olosia.github.io/docs/main)
+- [OLOSIA Main](https://olosia.github.io/docs/main)
     - [공개 암기장](https://olosia.github.io/docs/main/decks)
     - [공개 사용자홈](https://olosia.github.io/docs/main/homes)
     - [간편 암기장](https://olosia.github.io/docs/main/easy)
