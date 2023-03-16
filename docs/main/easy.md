@@ -26,16 +26,3 @@ nav_order: 3
 
 ![easy-pc](/assets/images/easy-pc.png)
 ![easy-mobile](/assets/images/easy-mobile.png)
-
-<br />
-
-**ChatGPT** 에게 플래시카드 샘플 데이터를 요청해보세요!!!
-
-    플래시카드 앞 뒷면을 구성할 영어단어 샘플 데이터를 작성해줘.
-    구분자는 콤마(,)
-    구분자인 콤마 앞쪽은 앞면에 해당하는 영어단어
-    구분자인 콤마 뒷쪽은 뒷면에 해당하는 한글뜻
-
-[ChatGPT 바로가기](https://chat.openai.com/chat){:target="_blank" .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-![chatgpt](/assets/images/chatgpt.png)
