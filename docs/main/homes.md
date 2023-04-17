@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 공개 사용자홈
+title: 공개 사용자
 parent: OLOSIA Main
 nav_order: 2
 ---
 
-# 공개 사용자홈
+# 공개 사용자
 {: .fs-7 }
 
 암기장을 공개하고 있는 사용자 사용자홈을 확인하실 수 있습니다.
@@ -16,9 +16,8 @@ nav_order: 2
 
 이 사용자홈은 다양한 분야의 지식을 공유하고, 함께 학습할 수 있는 공간입니다. 지금 바로 이 사용자홈을 방문하여 다양한 지식과 함께 성장해보세요!
 
-[공개 사용자홈 바로가기](https://olosia.com/homes){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[공개 사용자 바로가기](https://olosia.com/homes){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
     현재는 최신 등록순으로 조회됩니다만, 추후 추천순 / 조회순으로 기능들을 제공 할 예정입니다.
 
-![homes-pc](/assets/images/homes-pc.png)
-![homes-mobile](/assets/images/homes-mobile.png)
+![homes-pc](/assets/images/main/homes_ko.png)

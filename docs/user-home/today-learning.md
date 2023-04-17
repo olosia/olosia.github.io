@@ -32,4 +32,4 @@ nav_order: 7
 
 반복 일정에 대한 알고리즘은 앞으로도 기능을 확장하고 개선해 나가도록 하겠습니다.
 
-![today-learning](/assets/images/today-learning.png)
+![today-learning](/assets/images/user/today_learning_ko.png)

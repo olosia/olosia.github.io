@@ -20,13 +20,13 @@ permalink: /
 
 [올로시아(OLOSIA) 바로가기](https://olosia.com/){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-![decks-pc](/assets/images/decks-pc.png)
+![decks-pc](/assets/images/main/decks_ko.png)
 
 <br />
 
-휴대폰에서도, 인강학습에 많이 활용하시는 패드에서도, PC 에서도!!!
+모바일 환경을 지원합니다.
 
-![decks-mobile](/assets/images/decks-mobile.png)
+![decks-mobile](/assets/images/main/decks_mobile.png)
 
 <br />
 

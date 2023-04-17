@@ -18,7 +18,7 @@ nav_order: 3
 
 펼쳐진 각 카드를 뒤집어 보면서 암기하실 수 있습니다.
 
-![note-main](/assets/images/note-main.png)
+![note-main](/assets/images/user/note_ko.png)
 
 SHUFFLE 버튼을 통해 카드 목록을 뒤섞는 기능을 제공합니다.
 
@@ -26,7 +26,7 @@ SHUFFLE 버튼을 통해 카드 목록을 뒤섞는 기능을 제공합니다.
 
 ## 카드 추가
 
-![note-main-addcard](/assets/images/note-main-addcard.png)
+![note-main-addcard](/assets/images/user/menu_card_add_ko.png)
 
 
 카드 추가는 3가지 모드를 지원합니다.
@@ -39,7 +39,7 @@ SHUFFLE 버튼을 통해 카드 목록을 뒤섞는 기능을 제공합니다.
 
 ## 암기장 관리
 
-![note-manage](/assets/images/note-manage.png)
+![note-manage](/assets/images/user/menu_note_manage_ko.png)
 
 ### 장기학습
 
@@ -71,4 +71,4 @@ SHUFFLE 버튼을 통해 카드 목록을 뒤섞는 기능을 제공합니다.
 
 카드 조회화면에서는 암기장 제목을 클릭하시면 암기장으로 이동하게 됩니다.
 
-![note-main-title](/assets/images/note-main-title.png)
+![note-main-title](/assets/images/user/title_navi_ko.png)

@@ -20,4 +20,4 @@ nav_order: 1
 
 본인의 홈에서 플래시카드 만들기 버튼을 통해 새로운 암기장을 추가하실 수 있습니다.
 
-![user-home](/assets/images/user-home.png)
+![user-home](/assets/images/user/home_ko.png)
