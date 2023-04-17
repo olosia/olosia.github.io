@@ -22,8 +22,7 @@ permalink: /docs/main
 
 [올로시아(OLOSIA) 바로가기](https://olosia.com/){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-![decks-pc](/assets/images/decks-pc.png)
-![decks-mobile](/assets/images/decks-mobile.png)
+![decks-pc](/assets/images/main/decks_ko.png)
 
 {: .note }
 현재는 최신 등록순으로 조회됩니다만, 추후 추천순/조회순 등의 기능들 제공 예정입니다.

@@ -21,9 +21,8 @@ nav_order: 4
 
 [국기 플래시카드 바로가기](https://olosia.com/flags){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-![flags-pc](/assets/images/flags-pc.png)
-![flags-mobile](/assets/images/flags-mobile.png)
+![flags-pc](/assets/images/main/flag_ko.png)
 
 ## 퀴즈모드
 
-![flags-quiz](/assets/images/flags-quiz.png)
+![flags-quiz](/assets/images/main/flag_quiz_ko.png)

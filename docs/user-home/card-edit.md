@@ -10,7 +10,7 @@ nav_order: 6
 
 암기카드의 질문, 답변, 설명 등록/수정 합니다.
 
-![card-edit](/assets/images/card-edit.png)
+![card-edit](/assets/images/user/card_edit_ko.png)
 
 ## 간편등록
 
@@ -18,7 +18,7 @@ nav_order: 6
 
     질문과 답변의 구분자는 콤마로 구분하게됩니다.
 
-![card-edit-easy](/assets/images/card-edit-easy.png)
+![card-edit-easy](/assets/images/user/card_edit_easy_ko.png)
 
 ## 엑셀등록
 
@@ -26,7 +26,7 @@ nav_order: 6
 
     Excel Templete 파일을 다운로드하여 양식을 확인 후 작성하시고 등록합니다.
 
-![card-edit-upload](/assets/images/card-edit-upload.png)
+![card-edit-upload](/assets/images/user/card_edit_excel_ko.png)
 
 ### 신규 차시로 등록
 
@@ -38,7 +38,7 @@ nav_order: 6
 
 ## 카드관리
 
-![card-manage](/assets/images/card-manage.png)
+![card-manage](/assets/images/user/card_manage_ko.png)
 
     현재 암기장 카드정보 Excel 파일을 다운로드 받아 편집 후 일괄로 업데이트 하실 수 있습니다.
 

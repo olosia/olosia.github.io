@@ -32,4 +32,4 @@ nav_order: 8
 
 본인 홈의 전체 암기장 목록을 조회합니다.
 
-![decks-list](/assets/images/decks-list.png)
+![decks-list](/assets/images/user/decks_list_ko.png)

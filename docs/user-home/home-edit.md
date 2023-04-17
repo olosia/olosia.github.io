@@ -20,4 +20,4 @@ nav_order: 2
 
 방문하신 이용자들이 태그 분류별로 암기장을 조회할수 있게 됩니다.
 
-![home-edit](/assets/images/home-edit.png)
+![home-edit](/assets/images/user/home_edit_ko.png)

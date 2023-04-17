@@ -14,4 +14,4 @@ nav_order: 9
 
 방문자에게는 공개된 암기장 목록이 보여집니다.
 
-![tags-list](/assets/images/tags-list.png)
+![tags-list](/assets/images/user/tags_list_ko.png)
