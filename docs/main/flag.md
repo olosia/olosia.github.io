@@ -2,7 +2,7 @@
 layout: default
 title: 국기 플래시카드
 parent: OLOSIA Main
-nav_order: 4
+nav_order: 5
 ---
 
 # 국기 플래시카드
