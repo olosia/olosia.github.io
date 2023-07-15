@@ -8,8 +8,10 @@ nav_order: 6
 # CaseCraft
 {: .fs-7 }
 
-DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스를 소개해드립니다.
+Snake case To Camel case Online Converter
 {: .fs-5 .fw-300 }
+
+DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스를 소개해드립니다.
 
 프로그래밍 언어별 조각코드 생성에 활용해보세요.
 
