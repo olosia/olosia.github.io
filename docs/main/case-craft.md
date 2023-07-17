@@ -32,11 +32,13 @@ DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스�
 Tab 으로 구분된 테이블 컬럼 정보를 복사해서 입력합니다.
 
 ### 입력 테이블 컬럼 정보
-    seq	int(11)	N	Y	Sequence
-    user_id	varchar(15)	N	N	User identification
-    user_email	varchar(50)	Y	N	User E-mail
-    del_fg	bit(1)	N	N	Delete flag
-    create_date	timestamp	N	N	Date of creation
+    seq	int(11)	Sequence
+    user_id	varchar(15)	User identification
+    user_email	varchar(50)	User email
+    del_fg	bit(1)	Delete flag
+    create_date	timestamp	Date of creation
+
+![case-craft-column](/assets/images/main/case-craft_column.png)
 
 언어 / 기능별 메뉴와 옵션을 선택하시면, 다양한 조각코드를 생성하실 수 있습니다.
 
@@ -45,7 +47,7 @@ Java Variable
 ```java
 public int seq = 0;	// Sequence
 public String userId = null;	// User identification
-public String userEmail = null;	// User E-mail
+public String userEmail = null;	// User email
 public boolean delFg = false;	// Delete flag
 public LocalDateTime createDate = null;	// Date of creation
 ```
@@ -73,7 +75,7 @@ Javascript Variable
 ```javascript
 let seq        = 0    ;	// Sequence
 let userId     = ''   ;	// User identification
-let userEmail  = ''   ;	// User E-mail
+let userEmail  = ''   ;	// User email
 let delFg      = false;	// Delete flag
 let createDate = ''   ;	// Date of creation
 ```
@@ -101,7 +103,7 @@ Typescript Variable
 ```typescript
 let seq       : number  = 0    ;	// Sequence
 let userId    : string  = ''   ;	// User identification
-let userEmail : string  = ''   ;	// User E-mail
+let userEmail : string  = ''   ;	// User email
 let delFg     : boolean = false;	// Delete flag
 let createDate: string  = ''   ;	// Date of creation
 ```
