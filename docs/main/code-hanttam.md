@@ -1,11 +1,11 @@
 ---
 layout: default
-title: CaseCraft
+title: 코드 한 땀
 parent: OLOSIA Main
 nav_order: 6
 ---
 
-# CaseCraft
+# 코드 한 땀
 {: .fs-7 }
 
 Snake case To Camel case Online Converter
@@ -17,9 +17,9 @@ DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스�
 
 입력하신 정보는 올로시아 서버에 전송하거나 저장하지 않습니다.
 
-[CaseCraft 바로가기](https://olosia.com/case-craft){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[코드 한 땀 바로가기](https://olosia.com/code-hanttam){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-![case-craft-pc](/assets/images/main/case-craft_ko.png)
+![code-hanttam-pc](/assets/images/main/code-hanttam_ko.png)
 
 
 
@@ -29,19 +29,19 @@ DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스�
 
 ### 입력 테이블 컬럼 정보
 
-![case-craft-excel](/assets/images/main/case-craft_excel.png)
+![code-hanttam-excel](/assets/images/main/case-craft_excel.png)
 
 Tab 으로 구분된 테이블 컬럼 정보를 복사해서 입력합니다.
 
-![case-craft-column-db](/assets/images/main/case-craft_column_db.png)
+![code-hanttam-column-db](/assets/images/main/case-craft_column_db.png)
 
 ### 입력 Plain text
 
-![case-craft-column-txt](/assets/images/main/case-craft_column_txt.png)
+![code-hanttam-column-txt](/assets/images/main/case-craft_column_txt.png)
 
 ### 입력 JSON
 
-![case-craft-column-json](/assets/images/main/case-craft_column_json.png)
+![code-hanttam-column-json](/assets/images/main/case-craft_column_json.png)
 
 언어 / 기능별 메뉴와 옵션을 선택하시면, 다양한 조각코드를 생성하실 수 있습니다.
 
