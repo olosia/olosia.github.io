@@ -75,7 +75,7 @@ permalink: /
     - [공개 사용자](/docs/main/easy)
     - [AI 플래시카드](/docs/main/aicards)
     - [국기 플래시카드](/docs/main/flag)
-    - [코드 한 땀](/docs/main/code-hanttam)
+    - [코드 한땀](/docs/main/code-hanttam)
 - [User Home](/docs/user-home)
     - [사용자 홈](/docs/user-home/home-main)
     - [사용자 홈 관리](/docs/user-home/home-edit)
