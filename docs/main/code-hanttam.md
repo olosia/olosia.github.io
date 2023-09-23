@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 코드 한 땀
+title: 코드 한땀
 parent: OLOSIA Main
 nav_order: 6
 ---
 
-# 코드 한 땀
+# 코드 한땀
 {: .fs-7 }
 
 Snake case To Camel case Online Converter
@@ -17,7 +17,7 @@ DB 컬럼 (snake_case) 기준으로, camelCase 변수를 생성하는 서비스�
 
 입력하신 정보는 올로시아 서버에 전송하거나 저장하지 않습니다.
 
-[코드 한 땀 바로가기](https://olosia.com/code-hanttam){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[코드 한땀 바로가기](https://olosia.com/code-hanttam){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ![code-hanttam-pc](/assets/images/main/code-hanttam_ko.png)
 
