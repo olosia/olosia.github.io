@@ -13,7 +13,7 @@ nav_order: 99
 
 이메일: olosiakr@gmail.com
 
-감사합니다.
+감사합니다 :)
 
 ![about](/assets/images/about.png)
 ![about-menu](/assets/images/about-menu.png)
